@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main -print _putcher
- * is written by mbah
+ * main - print _putcher
+ * is written by mohammed
  * Return: 0
  * */
 
