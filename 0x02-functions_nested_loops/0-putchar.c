@@ -3,7 +3,8 @@
  * main - print _putcher
  * is written by mohammed
  * Return: 0
- * */
+ *
+ */
 
 int main(void)
 {
