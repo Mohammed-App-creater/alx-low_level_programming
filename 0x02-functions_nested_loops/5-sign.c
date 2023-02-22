@@ -1,12 +1,12 @@
-nclude "main.h"
+#include "main.h"
 
 /**
  *print_sing -> print sing of based on the condition
  *@n: argument passed
- *Return: 1, 0 and -1 depanding on the condition
+ *Return: 1, 0 or -1 depanding on the condition
  */
 
-int print_sing(int c)
+int print_sing(int n)
 {
 	if (n > 0)
 	{
@@ -20,7 +20,7 @@ int print_sing(int c)
 	}
 	else
 	{
-		_puchar('-');
+		_putchar('-');
 		return (-1);
 	}
 }
