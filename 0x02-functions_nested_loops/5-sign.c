@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *print_sing -> print sing of based on the condition
+ * print_sing -> print sing of based on the condition
  *@n: argument passed
  *Return: 1, 0 or -1 depanding on the condition
  */
